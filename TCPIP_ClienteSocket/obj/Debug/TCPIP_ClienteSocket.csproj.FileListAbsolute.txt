@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\TCPIP_ClienteSocket\TCPIP_ClienteSocket\bin\Debug\TCPIP_ClienteSocket.exe.config
+C:\Users\Admin\source\repos\TCPIP_ClienteSocket\TCPIP_ClienteSocket\bin\Debug\TCPIP_ClienteSocket.exe
+C:\Users\Admin\source\repos\TCPIP_ClienteSocket\TCPIP_ClienteSocket\bin\Debug\TCPIP_ClienteSocket.pdb
+C:\Users\Admin\source\repos\TCPIP_ClienteSocket\TCPIP_ClienteSocket\obj\Debug\TCPIP_ClienteSocket.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TCPIP_ClienteSocket\TCPIP_ClienteSocket\obj\Debug\TCPIP_ClienteSocket.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TCPIP_ClienteSocket\TCPIP_ClienteSocket\obj\Debug\TCPIP_ClienteSocket.exe
+C:\Users\Admin\source\repos\TCPIP_ClienteSocket\TCPIP_ClienteSocket\obj\Debug\TCPIP_ClienteSocket.pdb
